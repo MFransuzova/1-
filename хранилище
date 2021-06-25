@@ -1,2 +1,3 @@
 @set PathToDepotERP_GAS="tcp://msk-dev-depot1:1542/ERP_GAS"
 @set PathToDepotERP_GAS_ext="tcp://msk-dev-depot1:1542/gas_erp_ext_work"
+gas_uso_savchenko_dev
